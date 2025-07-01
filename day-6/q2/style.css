@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navigation {
+    height: 50px;
+    width: 900px;
+    background-color: lightcoral;
+    border: 2px solid lightgreen;
+    border-radius: 10px;
+    display: flex; 
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.navbar a {
+    height: 50px;
+    width: 80px;
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    margin-right: 30px;
+
+}
